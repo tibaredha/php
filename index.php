@@ -1,3 +1,4 @@
 <?php
+echo "tibaredha";
 phpinfo();
 ?>
